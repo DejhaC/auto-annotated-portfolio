@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
-  altText: Project thumbnail image
+  altText: Flying
 media:
   type: ImageBlock
   url: /images/bg2.jpg
