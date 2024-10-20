@@ -14,5 +14,5 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/flying.jpg
-  altText: Project image
+  altText: Plane
 ---
