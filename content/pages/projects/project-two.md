@@ -13,6 +13,6 @@ featuredImage:
   altText: Flying
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/flying.jpg
   altText: Project image
 ---
