@@ -192,4 +192,5 @@ sections:
       text:
         textAlign: left
 metaTitle: Dejha's Front-End Developer Portfolio
+metaDescription: Dejha's Portfolio
 ---
