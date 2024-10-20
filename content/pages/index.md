@@ -191,4 +191,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+metaTitle: Dejha's Front-End Developer Portfolio
 ---
