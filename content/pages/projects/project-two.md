@@ -9,7 +9,7 @@ description: >-
   achievement.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/flying.jpg
   altText: Flying
 media:
   type: ImageBlock
