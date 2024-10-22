@@ -5,10 +5,13 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
+  because I worked with an entire team :) but they definitely followed my lead
+  most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: >-
+    /images/screencapture-file-C-Users-Student-OneDrive-Jackson-State-University-Desktop-qr-index-html-2024-10-22-12_34_12.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
