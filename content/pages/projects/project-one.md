@@ -10,7 +10,8 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: >-
+    /images/screencapture-file-C-Users-Student-OneDrive-Jackson-State-University-Desktop-Codes-My-Biggest-Achievement-html-2024-10-22-12_45_12.png
   altText: 'Project: My Biggest Achievement'
 media:
   type: ImageBlock
