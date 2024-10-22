@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
   url: >-
     /images/screencapture-file-C-Users-Student-OneDrive-Jackson-State-University-Desktop-qr-index-html-2024-10-22-12_34_12.png
-  altText: Project thumbnail image
+  altText: 'Project: QR Code'
 media:
   type: ImageBlock
   url: /images/bg3.jpg
