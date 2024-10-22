@@ -13,6 +13,7 @@ featuredImage:
   url: >-
     /images/screencapture-file-C-Users-Student-OneDrive-Jackson-State-University-Desktop-Codes-My-Biggest-Achievement-html-2024-10-22-12_45_12.png
   altText: 'Project: My Biggest Achievement'
+  caption: SheCodes project displaying my biggest achievement.
 media:
   type: ImageBlock
   url: /images/bg1.jpg
