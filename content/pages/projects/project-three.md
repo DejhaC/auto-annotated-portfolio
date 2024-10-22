@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: 'Project: QR Code'
 colors: colors-a
 date: '2024-10-22'
 client: FrontEnd Mentor
